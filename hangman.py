@@ -1,4 +1,4 @@
-# Thanks so much for reading my book. Feel free to contact me at cory[at]theselftaughtprogrammer.io.
+## Thanks so much for reading my book. Feel free to contact me at cory[at]theselftaughtprogrammer.io.
 
 
 from random import shuffle
